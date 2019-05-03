@@ -1,0 +1,1 @@
+include ':app', ':notificaation', ':fragmentdata', ':tablayoutdemo', ':imagegridview', ':navigation', ':contextualactionmodedemo'
